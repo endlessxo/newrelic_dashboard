@@ -1,4 +1,10 @@
 skjfakljfaskljfasl
 
 Name = "Kenneth Mui"
-Version = "v1.5"
+Version = "v1.6"
+
+What does git remote do? 
+What does git rebase do? 
+What does git check-pick do? 
+What does git reset do? 
+What does git merge do? 
